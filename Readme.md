@@ -3,7 +3,7 @@
 This application was built by Django version 1.11 a python framework.
 
 
-#### 20th October 2018
+#### 3rd May 2021
 
 #### By Cherucole 
 
