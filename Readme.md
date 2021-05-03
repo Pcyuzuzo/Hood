@@ -5,7 +5,7 @@ This application was built by Django version 1.11 a python framework.
 
 #### 3rd May 2021
 
-#### By Cherucole 
+#### By Patience Cyuzuzo 
 
 ### Description
 
