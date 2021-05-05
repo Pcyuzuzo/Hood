@@ -9,19 +9,19 @@ This application was built by Django version 1.11 a python framework.
 
 ### Description
 
-The Watchtower is a neighborhood watch web application that allows you to be aware about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts..
+This web apllication  is a neighborhood watch web application that allows you to be aware about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts..
 
 ## User Stories
 
 As a user of the application i should be able to:
 
-*Sign in with the application to start using.
-*Set up a profile about me and a general location and my neighborhood name.
-*Find a list of different businesses in my neighborhood.
-*Find Contact Information for the health department and Police authorities near my neighborhood.
-*Create Posts that will be visible to everyone in my neighborhood.
-*Change My neighborhood when I decide to move out.
-*Only view details of a single neighborhood.
+* Sign in with the application to start using.
+* Set up a profile about me and a general location and my neighborhood name.
+* Find a list of different businesses in my neighborhood.
+* Find Contact Information for the health department and Police authorities near my neighborhood.
+* Create Posts that will be visible to everyone in my neighborhood.
+* Change My neighborhood when I decide to move out.
+* Only view details of a single neighborhood.
 
 ## Setup/Installation Requirements
 
@@ -30,7 +30,7 @@ As a user of the application i should be able to:
 * Clone https://github.com/Pcyuzuzo/Hood
 * Atleast have a computer or a laptop
 * Have an internet connection
-* Live app here https://cherucole-watchtower.herokuapp.com/
+* Live app here https://cyuzuzo-watchtower.herokuapp.com/
 
 * install Django
 
